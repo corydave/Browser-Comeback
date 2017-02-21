@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.title {
+  width: 100%;
+  height: 40px;
+  background-color: #1e90ff;
+  color: white;
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+  font-size:30px;
+  font-weight: bold;
+}
+
+.container {
+  width: 300px;
+}
+
+.optionRectangle {
+  font-family: arial, hevetica, sans-serif;
+  font-size: 12pt;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+.specifiedTimeText {
+  font-family: arial, hevetica, sans-serif;
+  font-size: 10pt;
+  color: #555;
+}
+
+.optionButton {
+  border: 0px;
+  font-family: arial, hevetica, sans-serif;
+  font-size: 12pt;
+  background-color: #fff;
+}
+
+.confirmationMessage {
+  text-align: center;
+  background-color: #ccc;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
